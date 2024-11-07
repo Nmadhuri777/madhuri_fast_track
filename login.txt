@@ -1,1 +1,2 @@
 Enter your user name and login id
+name and id are required
